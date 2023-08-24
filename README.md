@@ -2,6 +2,10 @@
 
 https://youtu.be/j5Zsa_eOXeY 
 
+https://raw.githubusercontent.com/RodrigoMvs123/DevOps-Engineering-Course-for-Beginners-/main/README.md
+
+
+
 https://github.com/webappio/livechat-example 
 
 Course Outline
